@@ -17,4 +17,5 @@ The pipeline consists of
 
 ## Closing Thoughts
 Although we get decent reconstruction of the figure, it can be further improved
-Statistical or Radial Outlier Removal can further help in noise removal from the dense reconstruction.
+1. Statistical or Radial Outlier Removal can further help in noise removal from the dense reconstruction.
+2. The head in front view has not been reconstructed inspite of many images in same pose. This is due glare from the lights directly above it. Image processing algorithms can help fix this issue.
