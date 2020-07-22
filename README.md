@@ -14,3 +14,7 @@ The pipeline consists of
 
 ## Results
 ![alt text](assets/sfm.gif)
+
+## Closing Thoughts
+Although we get decent reconstruction of the figure, it can be further improved
+Statistical or Radial Outlier Removal can further help in cleaning the dense reconstruction.
