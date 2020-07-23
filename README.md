@@ -1,7 +1,7 @@
 # 3D Reconstruction
 
 ## Description
-This repository implements 3D Reconstruction (of Flash figure) using Structure from Motion Pipeline and RGB images. 
+This repository implements 3D Reconstruction (from RGB images) using Structure from Motion Pipeline. 
 The pipeline consists of 
 1. Feature Detection (using SURF / SIFT / Hessian Affine Region Detector)
 2. Feature Matching (using FLANN)
