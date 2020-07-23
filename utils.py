@@ -3,12 +3,13 @@
 
 
 
-from opensfm import exif
 import logging
 from timeit import default_timer as timer
 
 import numpy as np
 import cv2
+
+from opensfm import exif
 
 from opensfm import bow
 from opensfm import dataset
