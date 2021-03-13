@@ -13,6 +13,9 @@ The pipeline consists of
 ![alt text](assets/flowchart.png)
 
 ## Results
+
+Heres the result of SfM on Flash Action Figure
+
 ![alt text](assets/sfm.gif)
 
 ## Closing Thoughts
